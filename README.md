@@ -1,3 +1,3 @@
-# Python course ![experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
+# Python course ![dormant](https://img.shields.io/badge/lifecycle-dormant-blue.svg)
 
 Materials from my first Python course @ codewithmosh
