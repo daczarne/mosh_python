@@ -2,4 +2,4 @@
 
 ![dormant](https://img.shields.io/badge/lifecycle-dormant-blue.svg)
 
-Materials from my first Python course @codewithmosh
+Materials from Mosh Hamedani's Python course
