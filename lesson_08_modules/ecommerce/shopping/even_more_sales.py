@@ -7,6 +7,9 @@ from ..customer import contact
 contact.contact_customer()
 
 
+print("Sales initialized")
+
+
 def calc_tax():
     print("Calculate the tax value.")
 
