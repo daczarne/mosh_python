@@ -1,2 +1,2 @@
 get-pip.py linguist-vendored
-/lesson_12_django/vidly/static/*.js linguist-vendored
+*.js linguist-vendored
