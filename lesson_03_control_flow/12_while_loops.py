@@ -1,4 +1,5 @@
-# while: input is not "quit", keep asking for commands
+### While Loops ###
+
 command = ""
 
 while command.lower() != "quit":
