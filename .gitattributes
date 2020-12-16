@@ -1,2 +1,2 @@
-get-pip.py linguist-vendored
+lesson_01_getting_started/get-pip.py linguist-vendored
 lesson_12_django/vidly/static/* linguist-vendored
