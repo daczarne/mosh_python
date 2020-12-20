@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .Rproj.user
+
+# Certificate
+certificate-of-completion.pdf
