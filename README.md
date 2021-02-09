@@ -8,4 +8,4 @@
 ![repo size](https://img.shields.io/github/repo-size/daczarne/python_course_mosh)
 ![code size](https://img.shields.io/github/languages/code-size/daczarne/python_course_mosh)
 
-Class notes for Mosh Hamedani's course.
+Class notes for Mosh Hamedani's Python course.
